@@ -18,6 +18,10 @@ A list of active (see [active](#active) for how we define active) declarative pr
   - Speaking: EN
   - Programming Languages: TypeScript (fp-ts), Haskell, Purescript, Reason, Rust
   - Schedule: Thursdays 6:00 PM UTC ([gillchristian.yxz/stream](https://gillchristian.xyz/stream))
+- [identityGS](https://www.twitch.tv/identityGS)
+  - Speaking: EN
+  - Programming Languages: Idris
+  - Schedule: Wednesday (19:00-23:00), Friday (13:00-17:00) and Sunday (13:00-17:00) UTC+0
 - [kerckhove_ts](https://www.twitch.tv/kerckhove_ts)
   - Speaking: EN
   - Programming Languages: Haskell
